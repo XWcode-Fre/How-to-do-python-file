@@ -13,9 +13,9 @@ This rep for a dumb persons....
 `4. write a code. For test you can copy my code`
 
 # Code for test
-		print('test')
-		for i in range(101):
-    			print(i)
+	print('test')
+	for i in range(101):
+    		print(i)
 
 # bye bye
 
